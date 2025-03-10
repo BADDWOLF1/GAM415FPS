@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS415JoshuaAmjadi.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS415JoshuaAmjadi.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS415JoshuaAmjadiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS415JoshuaAmjadi">
+      <UniqueIdentifier>{869B25E1-0BC9-3621-B665-5A4D91C5343A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadi.Build.cs">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadi.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadi.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiCharacter.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiCharacter.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiGameMode.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiGameMode.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiPlayerController.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiPlayerController.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiProjectile.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\FPS415JoshuaAmjadiProjectile.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\TP_PickUpComponent.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\TP_PickUpComponent.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS415JoshuaAmjadi\TP_WeaponComponent.cpp">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS415JoshuaAmjadi\TP_WeaponComponent.h">
+      <Filter>Source\FPS415JoshuaAmjadi</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
